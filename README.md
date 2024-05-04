@@ -15,7 +15,7 @@ In addition to my technical abilities, I thrive in collaborative team environmen
 
 I am highly motivated to take on new challenges and seek a company that will allow me to continue growing as a full-stack developer.
 
-<a href="https://magdalenapizarroo.github.io/">Check out my Portfolio</a> and my <a href="https://www.linkedin.com/in/magdalena-pizarro-ortega/">LinkedIn</a> profile!
+<a href="https://www.linkedin.com/in/magdalena-pizarro-ortega/">Check out my LinkedIn profile!</a>
 
 
 My main skills are...
